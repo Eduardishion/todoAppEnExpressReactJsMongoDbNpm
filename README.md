@@ -28,6 +28,7 @@ del back-end mediante:
 
 Puerto de acceso del back-end: http://localhost:3001/
 
+Puerto de acceso al api: http://localhost:3001/api/tareas/
 
 5.-Ingresando a la directorio cliente, debemos instalar las dependencias del front-end mediante:
  
