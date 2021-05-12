@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  ul
+    li
+      a(href="/formu1") formu1
+  h1 HOLA MUNDO DESDE HTML CON PUG
+
+  div(class="formulario" id="formulario" name="formulario")
+    form(action="/formu1", method="post")
+      label(for="nombre") Nombre 
+      input(type="text", name="nombre" placeholder="Ingresa nombre...")
+      br
+      label(for="correo")   Correo 
+      input(type="email", name="correo" placeholder="Ingresa correo...")
+      br
+      input(type="submit", value="enviar")
