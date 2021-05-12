@@ -34,6 +34,8 @@ del back-end mediante:
 6.-Para ejecutar el front-end:
 	npm start
 
+Puerto de acceso del front-end: http://localhost:3000/
+
 7.-si todo sale bien, podemos ver la 
 siguiente pagina, donde podemos hacer las opraciones basicas DRUD:
 	
