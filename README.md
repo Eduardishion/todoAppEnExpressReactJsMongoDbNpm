@@ -26,7 +26,7 @@ del back-end mediante:
 
 	node app2.js
 
-Puerto de acceso del front-end: http://localhost:3001/
+Puerto de acceso del back-end: http://localhost:3001/
 
 
 5.-Ingresando a la directorio cliente, debemos instalar las dependencias del front-end mediante:
