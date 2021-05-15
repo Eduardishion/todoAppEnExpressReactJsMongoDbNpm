@@ -1,13 +1,13 @@
-Vista previa
-
-![alt text](https://github.com/Eduardishion/todoAppEnExpressReactJsMongoDbNpm/blob/master/preview.png)
-
 Para este proyecto se uso:
 
 	-MongoDb
 	-Express
 	-ReactJs
 	-Npm
+
+Vista previa
+
+![alt text](https://github.com/Eduardishion/todoAppEnExpressReactJsMongoDbNpm/blob/master/preview.png)
 
 1.-Debemos tener en cuenta que debemos tener,
 instalado NodeJs y verificar que esta instalado con:
