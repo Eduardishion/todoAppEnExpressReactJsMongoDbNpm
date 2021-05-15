@@ -1,9 +1,4 @@
-Para este proyecto se uso:
-
-	-MongoDb
-	-Express
-	-ReactJs
-	-Npm
+Para este proyecto se uso:  -MongoDb -Express -ReactJs -Npm
 
 Vista previa
 
