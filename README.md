@@ -1,4 +1,4 @@
-## Para este proyecto que ido haciendo de manera autodidacta para aprender estas tegnologias y se:  -MongoDb -Express -ReactJs -Npm
+## Para este proyecto que ido haciendo de manera autodidacta para aprender estas tegnologias use:  -MongoDb -Express -ReactJs -Npm
 
 Vista previa
 
