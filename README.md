@@ -1,5 +1,14 @@
 ## Para este proyecto que ido haciendo de manera autodidacta para aprender estas tecnologías:  -MongoDb -Express -ReactJs -Npm
 
+Para este ejemplo me fue un poco mas dificil por no conecer a fondo javascript incluso sigo practicando sobre ello pero 
+encontre algunas de las biografias que mas me sirvieron para poder hacer esta integracion y son las siguientes:
+
+-  Full-Stack React Projects Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js, en sus ediciones 1 y 2nd Edition by Hoque Shama Hoque 
+
+-  Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node, en sus ediciones 1 y 2nd Edition  por Vasan Subramanian 
+
+- MERN Quick Start Guide: Build web applications with MongoDB, Express.js, React, and Node  1ro Edición,  por Eddy Wilson Iriarte Koroliova 
+
 Vista previa
 
 ![alt text](https://github.com/Eduardishion/todoAppEnExpressReactJsMongoDbNpm/blob/master/preview.png)
